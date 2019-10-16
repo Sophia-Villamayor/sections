@@ -46,7 +46,7 @@ div {
   text-align: left;
 }
 
-.img img {
+.picture img {
   display: inline-block;
   max-width: 100%;
 }
@@ -78,7 +78,7 @@ p {
   text-decoration: none;
 }
 
-.img a {
+.picture a {
   margin-bottom: 1.5rem;
   display: inline-block;
   padding: .75em;
@@ -91,5 +91,9 @@ p {
   outline-offset: 2px;
   text-align: center;
   list-style-type: none;
+  text-decoration: none;
+}
+
+.img {
   text-decoration: none;
 }
