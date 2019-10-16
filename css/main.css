@@ -95,6 +95,6 @@ p {
 }
 
 img {
-  width: inherit;
-  display: inline-block
+  width: auto;
+  display: block;
 }
